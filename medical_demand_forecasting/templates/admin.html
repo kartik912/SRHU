@@ -1,0 +1,90 @@
+{% load static %}
+{% csrf_token %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drugstore Admin</title>
+    <link rel="stylesheet" href="{% static 'assets/css/admin.css' %}">
+</head>
+<body style="background-image: url('{% static 'assets/images/MedAdmin.png' %}');">
+    <header class="header">
+        <div class="logo">
+            <img src="{% static 'assets/images/FAD.jpg' %}" alt="Drugstore Logo">
+            <h1>Drugstore</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#">Inventory</a></li>
+                <li><a href="#">Sales</a></li>
+                <li><a href="#">Expiry Management</a></li>
+                <li><a href="#">Medication Re-orders</a></li>
+                <li><a href="#">User Management</a></li>
+                <li><a href="#">Patient Interaction Data</a></li>
+            </ul>
+        </nav>
+        <div class="search-bar">
+            <input type="text" placeholder="Search...">
+        </div>
+    </header>
+    <main class="main-content">
+        <div class="dashboard-overview" style="display: flex;flex-direction: column;">
+            <h2>Dashboard Overview</h2>
+            <div class="summary-card">
+                <p>Total Inventory Value:</p>
+                <span>$12,500</span>
+            </div>
+            <div class="summary-card">
+                <p>Recent Sales Figures:</p>
+                <span>$5,000 (last 7 days)</span>
+            </div>
+            <div class="summary-card">
+                <p>Upcoming Expiries:</p>
+                <span>15 items</span>
+            </div>
+            <!-- Add more summary cards as needed -->
+        </div>
+        <!-- <div class="inventory-management">
+            <h2>Inventory Management</h2>
+            
+        </div>
+        <div class="sales-management">
+            <h2>Sales Management</h2>
+            
+        </div>
+        <div class="expiry-management">
+            <h2>Expiry Management</h2>
+            
+        </div>
+        <div class="medication-reorders">
+            <h2>Medication Re-orders Management</h2>
+            
+        </div>
+        <div class="user-management">
+            <h2>User Management</h2>
+            
+        </div>
+        <div class="patient-interaction-data">
+            <h2>Patient Interaction Data</h2>
+            
+        </div> -->
+    </main>
+    <!-- <aside class="sidebar-navigation">
+        <h3>Quick Access Links</h3>
+        <ul>
+            <li><a href="#">Link 1</a></li>
+            <li><a href="#">Link 2</a></li>
+            <li><a href="#">Link 3</a></li>
+            
+        </ul>
+        <h3>Settings and Notifications</h3>
+        <ul>
+            <li><a href="#">Account Settings</a></li>
+            <li><a href="#">Notification Preferences</a></li>
+            <li><a href="#">System Updates</a></li>
+            
+        </ul>
+    </aside> -->
+</body>
+</html>

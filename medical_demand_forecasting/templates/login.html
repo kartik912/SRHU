@@ -1,0 +1,37 @@
+{% load static %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link rel="stylesheet" href="{% static 'assets/css/login.css' %}">
+</head>
+<body>
+    <main>
+        <div class="blur-div" style="background-image: url('{% static 'assets/images/drugs.jpeg' %}')"></div>
+        <div class="login-card">
+            <form action="{% url 'index' %}" method="post">
+                {% csrf_token %}
+                <h2>Login</h2>
+                <label for="username" style="font-size:16px;">username</label>
+                <input type="text" id="username" name="username" autocomplete="current-username" required>
+                <label for="password" style="font-size:16px;">Password</label>
+                <input type="password" id="password" name="password" autocomplete="current-password" required>
+
+                <button type="submit" id="submit">Login</button>
+            </form>
+        </div>
+    </main>
+    
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const loginCard = document.querySelector(".login-card");
+
+        setTimeout(function() {
+        loginCard.classList.add("animate");
+    })});</script>
+</body>
+</html>

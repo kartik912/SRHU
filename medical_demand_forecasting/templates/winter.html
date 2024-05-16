@@ -1,0 +1,353 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Summer_medicines</title>
+  <meta name="title" content="Summer">
+  <meta name="description" content="This is an eCommerce Website">
+  <!-- <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml"> -->
+  <link rel="stylesheet" href="{% static 'assets/css/style_summer1.css' %}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Bangers&family=Carter+One&family=Nunito+Sans:wght@400;700&display=swap"
+    rel="stylesheet">
+
+
+</head>
+
+<body id="top">
+  <header class="header" data-header>
+    <div class="container" style="background-color: black; ">
+
+      <button class="nav-toggle-btn" aria-label="toggle manu" data-nav-toggler>
+        <ion-icon name="menu-outline" aria-hidden="true" class="menu-icon"></ion-icon>
+        <ion-icon name="close-outline" aria-label="true" class="close-icon"></ion-icon>
+      </button>
+
+      <a href="{% url 'index' %}" class="logo">Deep_Learners</a>
+
+  
+        
+
+    </div>
+  </header>
+
+
+
+
+
+  <main>
+    <article>
+
+      <!-- HEADINDG -->
+   
+        <div class="container" style="background-color: brown; padding-top: 10px; margin-top: 80px;">
+          <h3 class="h1 hero-title">
+            <span class="span">Mostly used medicines in Autumn</span> 
+          </h3>
+
+        
+
+        </div>
+      </section>
+
+
+
+      <!--  PRODUCT     -->
+
+      <section class="section product" id="shop" aria-label="product">
+        <div class="container">
+
+          <!-- <h2 class="h2 section-title">
+            <span class="span">Best</span> Seller
+          </h2> -->
+
+          <ul class="grid-list">
+
+            <li>
+              <div class="product-card">
+
+                <div class="card-banner img-holder" style="--width: 360; --height: 360;">
+                  <img src="{% static 'assets/images/1.png' %}" width="360" height="360" loading="lazy"
+                    alt="Tamino - Best Dog Food" class="img-cover default">
+                    <img src="{% static 'assets/images/1_0.png' %}" width="360" height="360" loading="lazy"
+                    alt="Paracetamol" class="img-cover hover">
+                </div>
+
+                <div class="card-content">
+                  <h3 class="h3">
+                    <a href="#" class="card-title">Amoxicillin</a>
+                  </h3>
+
+                  <data class="card-price" value="50">₹ 50</data>
+
+                </div>
+
+              </div>
+            </li>
+
+            <li>
+              <div class="product-card">
+
+                <div class="card-banner img-holder" style="--width: 360; --height: 360;">
+                  <img src="{% static 'assets/images/2.png' %}" width="360" height="360" loading="lazy"
+                    alt="Shrimp Pallets" class="img-cover default">
+                  <img src="{% static 'assets/images/2_0.png' %}" width="360" height="360" loading="lazy"
+                    alt="Lisinopril" class="img-cover hover">
+                </div>
+
+                <div class="card-content">
+
+                  
+
+                  <h3 class="h3">
+                    <a href="#" class="card-title">Phenobarbital</a>
+                  </h3>
+
+                  <data class="card-price" value="45">₹ 200</data>
+
+                </div>
+
+              </div>
+            </li>
+
+            <li>
+              <div class="product-card">
+
+                <div class="card-banner img-holder" style="--width: 360; --height: 360;">
+                  <img src="{% static 'assets/images/3.png' %}" width="360" height="360" loading="lazy"
+                    alt="Wardley Pallets" class="img-cover default">
+                  <img src="{% static 'assets/images/3_0.png' %}" width="360" height="360" loading="lazy"
+                    alt="Mirtazapine" class="img-cover hover">                 
+                </div>
+
+                <div class="card-content">
+
+                 
+
+                  <h3 class="h3">
+                    <a href="#" class="card-title">Furosemide</a>
+                  </h3>
+
+                  <data class="card-price" value="45">₹ 150</data>
+
+                </div>
+
+              </div>
+            </li>
+
+            <li>
+              <div class="product-card">
+
+                <div class="card-banner img-holder" style="--width: 360; --height: 360;">
+                  <img src="{% static 'assets/images/4.png' %}" width="360" height="360" loading="lazy"
+                    alt="Fruit Blend" class="img-cover default">
+                  <img src="{% static 'assets/images/4_0.png' %}" width="360" height="360" loading="lazy"
+                    alt="Warfarin" class="img-cover hover">
+                </div>
+
+                <div class="card-content">
+
+                 
+                  <h3 class="h3">
+                    <a href="#" class="card-title">Levothyroxine</a>
+                  </h3>
+
+                  <data class="card-price" value="49">₹ 450</data>
+
+                </div>
+
+              </div>
+            </li>
+
+            <li>
+              <div class="product-card">
+
+                <div class="card-banner img-holder" style="--width: 360; --height: 360;">
+                  <img src="{% static 'assets/images/5.png' %}" width="360" height="360" loading="lazy"
+                    alt="Circular Ball Game" class="img-cover default">
+                </div>
+                <img src="{% static 'assets/images/5_0.png' %}" width="360" height="360" loading="lazy"
+                    alt="Varenicline" class="img-cover hover">
+
+                <div class="card-content">
+
+                  
+
+                  <h3 class="h3">
+                    <a href="#" class="card-title">Methylephenidate</a>
+                  </h3>
+
+                  <data class="card-price" value="85">₹ 600</data>
+
+                </div>
+
+              </div>
+            </li>
+
+            <li>
+              <div class="product-card">
+
+                <div class="card-banner img-holder" style="--width: 360; --height: 360;">
+                  <img src="{% static 'assets/images/6.png' %}" width="360" height="360" loading="lazy"
+                    alt="Comfort Zoug" class="img-cover default">
+                    <img src="{% static 'assets/images/6_0.png' %}" width="360" height="360" loading="lazy"
+                    alt="Phenobarbital" class="img-cover hover">
+                </div>
+
+                <div class="card-content">
+
+                 
+
+                  <h3 class="h3">
+                    <a href="#" class="card-title">Pubupropina</a>
+                  </h3>
+
+                  <data class="card-price" value="85">₹ 500</data>
+
+                </div>
+
+              </div>
+            </li>
+
+            <li>
+              <div class="product-card">
+
+                <div class="card-banner img-holder" style="--width: 360; --height: 360;">
+                  <img src="{% static 'assets/images/7.png' %}" width="360" height="360" loading="lazy"
+                    alt="ProPlan Veternary Diet" class="img-cover default">
+                  <img src="{% static 'assets/images/7_0.png' %}" width="360" height="360" loading="lazy"
+                    alt="ProPlan Veternary Diet" class="img-cover hover">
+                </div>
+
+                <div class="card-content">                 
+
+                  <h3 class="h3">
+                    <a href="#" class="card-title">Lorazepan</a>
+                  </h3>
+
+                  <data class="card-price" value="85">₹550</data>
+
+                </div>
+
+              </div>
+            </li>
+          </ul>
+
+        </div>
+      </section>
+
+
+
+     
+     
+
+    </article>
+  </main>
+
+
+  <!-- 
+    - #FOOTER
+  -->
+
+  <footer class="footer" style="background-image: url('{% static 'assets/images/footer-bg.jpg' %}')">
+
+    <div class="footer-top section">
+      <div class="container">
+
+        <div class="footer-brand">
+
+          <a href="#" class="logo">Deep_Learners</a>
+
+          <p class="footer-text">
+            If you have any question, please contact us at <a href="mailto:support@gmail.com"
+              class="link">support@gmail.com</a>
+          </p>
+
+          <ul class="contact-list">
+
+            <li class="contact-item">
+              <ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+
+              <address class="address">
+                Dehradun
+              </address>
+            </li>
+
+            <li class="contact-item">
+              <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+
+              <a href="tel:+16234567891011" class="contact-link">(+91)-9927279934</a>
+            </li>
+
+          </ul>
+
+          <ul class="social-list">
+
+            <li>
+              <a href="#" class="social-link">
+                <ion-icon name="logo-facebook"></ion-icon>
+              </a>
+            </li>
+
+            <li>
+              <a href="#" class="social-link">
+                <ion-icon name="logo-twitter"></ion-icon>
+              </a>
+            </li>
+
+            <li>
+              <a href="#" class="social-link">
+                <ion-icon name="logo-pinterest"></ion-icon>
+              </a>
+            </li>
+
+            <li>
+              <a href="#" class="social-link">
+                <ion-icon name="logo-instagram"></ion-icon>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+
+
+  </footer>
+
+
+
+
+
+  <!-- 
+    - #BACK TO TOP
+  -->
+
+  <a href="#top" class="back-top-btn" aria-label="back to top" data-back-top-btn>
+    <ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
+  </a>
+
+
+
+
+
+  <!-- 
+    - custom js link
+  -->
+  <script src="{% static 'assets/js/script_summer.js' %}" defer></script>
+
+  <!-- 
+    - ionicon link
+  -->
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>

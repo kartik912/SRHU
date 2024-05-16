@@ -1,0 +1,213 @@
+year,drug_name,drug_type,January_expired,February_expired,March_expired,April_expired,May_expired,June_expired,July_expired,August_expired,September_expired,October_expired,November_expired,December_expired
+2020,Amoxicillin,Antibiotic,1,2,1,0,1,0,0,1,2,3,4,5
+2020,Lisinopril,Antihypertensive,2,1,2,1,0,1,0,0,1,2,3,4
+2020,Metformin,Antidiabetic,3,0,1,2,1,0,1,0,0,1,2,3
+2020,Amlodipine,Antihypertensive,0,3,0,1,2,1,0,1,0,0,1,2
+2020,Albuterol,Bronchodilator,1,0,3,0,1,2,1,0,1,0,0,1
+2020,Gabapentin,Anticonvulsant,2,1,0,3,0,1,2,1,0,1,0,0
+2020,Hydrochlorothiazide,Diuretic,0,2,1,0,3,0,1,2,1,0,1,0
+2020,Simvastatin,Antilipemic,1,0,2,1,0,3,0,1,2,1,0,1
+2020,Cetirizine,Antihistamine,2,1,0,2,1,0,3,0,1,2,1,0
+2020,Warfarin,Anticoagulant,0,2,1,0,2,1,0,3,0,1,2,1
+2020,Insulin Glargine,Antidiabetic,1,0,2,1,0,2,1,0,3,0,1,2
+2020,Salbutamol,Bronchodilator,2,1,0,2,1,0,2,1,0,3,0,1
+2020,Ramipril,Antihypertensive,0,2,1,0,2,1,0,2,1,0,3,0
+2020,Clopidogrel,Antiplatelet,1,0,2,1,0,2,1,0,2,1,0,3
+2020,Sertraline,Antidepressant,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Loratadine,Antihistamine,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Omeprazole,Proton Pump Inhibitor,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Ciprofloxacin,Fluoroquinolone,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Escitalopram,Antidepressant,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Losartan,Antihypertensive,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Prednisone,Corticosteroid,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Montelukast,Leukotriene Receptor Antagonist,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Fluoxetine,Selective Serotonin Reuptake Inhibitor,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Tramadol,Analgesic,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Alprazolam,Benzodiazepine,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Hydroxyzine,Antihistamine,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Ranitidine,H2 Blocker,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Diazepam,Benzodiazepine,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Enalapril,Antihypertensive,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Paroxetine,Selective Serotonin Reuptake Inhibitor,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Tamsulosin,Alpha Blocker,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Duloxetine,Antidepressant,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Venlafaxine,Antidepressant,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Lisinopril,Antihypertensive,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Clonazepam,Benzodiazepine,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Oxycodone,Opioid Analgesic,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Topiramate,Anticonvulsant,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Glimepiride,Antidiabetic,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Bupropion,Antidepressant,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Naproxen,Nonsteroidal Anti-inflammatory,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Pantoprazole,Proton Pump Inhibitor,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Risperidone,Antipsychotic,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Carvedilol,Beta Blocker,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Valacyclovir,Antiviral,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Aripiprazole,Antipsychotic,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Celecoxib,Nonsteroidal Anti-inflammatory,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Lamotrigine,Anticonvulsant,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Sildenafil,Erectile Dysfunction Agent,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Finasteride,5-alpha Reductase Inhibitor,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Zolpidem,Insomnia Treatment,1,0,2,1,0,2,1,0,2,1,0,2
+2020,Quetiapine,Antipsychotic,2,1,0,2,1,0,2,1,0,2,1,0
+2020,Furosemide,Diuretic,0,2,1,0,2,1,0,2,1,0,2,1
+2020,Amphetamine,Stimulant,1,0,2,1,0,2,,,,,,
+2021,Amoxicillin,Antibiotic,1,2,1,0,1,0,0,1,2,3,4,5
+2021,Lisinopril,Antihypertensive,2,1,2,1,0,1,0,0,1,2,3,4
+2021,Metformin,Antidiabetic,3,0,1,2,1,0,1,0,0,1,2,3
+2021,Amlodipine,Antihypertensive,0,3,0,1,2,1,0,1,0,0,1,2
+2021,Albuterol,Bronchodilator,1,0,3,0,1,2,1,0,1,0,0,1
+2021,Gabapentin,Anticonvulsant,2,1,0,3,0,1,2,1,0,1,0,0
+2021,Hydrochlorothiazide,Diuretic,0,2,1,0,3,0,1,2,1,0,1,0
+2021,Simvastatin,Antilipemic,1,0,2,1,0,3,0,1,2,1,0,1
+2021,Cetirizine,Antihistamine,2,1,0,2,1,0,3,0,1,2,1,0
+2021,Warfarin,Anticoagulant,0,2,1,0,2,1,0,3,0,1,2,1
+2021,Insulin Glargine,Antidiabetic,1,0,2,1,0,2,1,0,3,0,1,2
+2021,Salbutamol,Bronchodilator,2,1,0,2,1,0,2,1,0,3,0,1
+2021,Ramipril,Antihypertensive,0,2,1,0,2,1,0,2,1,0,3,0
+2021,Clopidogrel,Antiplatelet,1,0,2,1,0,2,1,0,2,1,0,3
+2021,Sertraline,Antidepressant,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Loratadine,Antihistamine,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Omeprazole,Proton Pump Inhibitor,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Ciprofloxacin,Fluoroquinolone,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Escitalopram,Antidepressant,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Losartan,Antihypertensive,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Prednisone,Corticosteroid,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Montelukast,Leukotriene Receptor Antagonist,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Fluoxetine,Selective Serotonin Reuptake Inhibitor,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Tramadol,Analgesic,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Alprazolam,Benzodiazepine,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Hydroxyzine,Antihistamine,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Ranitidine,H2 Blocker,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Diazepam,Benzodiazepine,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Enalapril,Antihypertensive,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Paroxetine,Selective Serotonin Reuptake Inhibitor,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Tamsulosin,Alpha Blocker,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Duloxetine,Antidepressant,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Venlafaxine,Antidepressant,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Lisinopril,Antihypertensive,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Clonazepam,Benzodiazepine,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Oxycodone,Opioid Analgesic,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Topiramate,Anticonvulsant,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Glimepiride,Antidiabetic,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Bupropion,Antidepressant,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Naproxen,Nonsteroidal Anti-inflammatory,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Pantoprazole,Proton Pump Inhibitor,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Risperidone,Antipsychotic,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Carvedilol,Beta Blocker,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Valacyclovir,Antiviral,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Aripiprazole,Antipsychotic,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Celecoxib,Nonsteroidal Anti-inflammatory,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Lamotrigine,Anticonvulsant,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Sildenafil,Erectile Dysfunction Agent,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Finasteride,5-alpha Reductase Inhibitor,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Zolpidem,Insomnia Treatment,1,0,2,1,0,2,1,0,2,1,0,2
+2021,Quetiapine,Antipsychotic,2,1,0,2,1,0,2,1,0,2,1,0
+2021,Furosemide,Diuretic,0,2,1,0,2,1,0,2,1,0,2,1
+2021,Amphetamine,Stimulant,1,0,2,1,,,,,,,,
+2022,Amoxicillin,Antibiotic,1,1,2,2,1,0,1,1,2,3,4,4
+2022,Lisinopril,Antihypertensive,2,2,1,1,2,1,0,0,1,2,3,3
+2022,Metformin,Antidiabetic,3,3,0,0,1,2,1,1,0,1,2,2
+2022,Amlodipine,Antihypertensive,0,0,3,3,2,1,0,0,1,1,2,2
+2022,Albuterol,Bronchodilator,1,1,0,0,3,2,1,1,0,0,1,1
+2022,Gabapentin,Anticonvulsant,2,2,1,1,0,0,3,2,1,1,0,0
+2022,Hydrochlorothiazide,Diuretic,0,0,2,2,1,1,0,0,3,2,1,1
+2022,Simvastatin,Antilipemic,1,1,0,0,2,2,1,1,0,0,3,3
+2022,Cetirizine,Antihistamine,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Warfarin,Anticoagulant,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Insulin Glargine,Antidiabetic,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Salbutamol,Bronchodilator,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Ramipril,Antihypertensive,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Clopidogrel,Antiplatelet,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Sertraline,Antidepressant,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Loratadine,Antihistamine,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Omeprazole,Proton Pump Inhibitor,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Ciprofloxacin,Fluoroquinolone,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Escitalopram,Antidepressant,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Losartan,Antihypertensive,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Prednisone,Corticosteroid,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Montelukast,Leukotriene Receptor Antagonist,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Fluoxetine,Selective Serotonin Reuptake Inhibitor,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Tramadol,Analgesic,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Alprazolam,Benzodiazepine,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Hydroxyzine,Antihistamine,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Ranitidine,H2 Blocker,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Diazepam,Benzodiazepine,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Enalapril,Antihypertensive,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Paroxetine,Selective Serotonin Reuptake Inhibitor,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Tamsulosin,Alpha Blocker,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Duloxetine,Antidepressant,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Venlafaxine,Antidepressant,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Lisinopril,Antihypertensive,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Clonazepam,Benzodiazepine,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Oxycodone,Opioid Analgesic,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Topiramate,Anticonvulsant,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Glimepiride,Antidiabetic,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Bupropion,Antidepressant,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Naproxen,Nonsteroidal Anti-inflammatory,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Pantoprazole,Proton Pump Inhibitor,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Risperidone,Antipsychotic,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Carvedilol,Beta Blocker,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Valacyclovir,Antiviral,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Aripiprazole,Antipsychotic,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Celecoxib,Nonsteroidal Anti-inflammatory,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Lamotrigine,Anticonvulsant,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Sildenafil,Erectile Dysfunction Agent,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Finasteride,5-alpha Reductase Inhibitor,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Zolpidem,Insomnia Treatment,1,1,0,0,2,2,1,1,0,0,2,2
+2022,Quetiapine,Antipsychotic,2,2,1,1,0,0,2,2,1,1,0,0
+2022,Furosemide,Diuretic,0,0,2,2,1,1,0,0,2,2,1,1
+2022,Amphetamine,Stimulant,1,1,0,0,2,2,,,,,,
+2023,Amoxicillin,Antibiotic,2,1,1,2,2,1,1,1,2,3,4,5
+2023,Lisinopril,Antihypertensive,1,2,2,1,1,2,2,0,1,2,3,4
+2023,Metformin,Antidiabetic,0,3,1,0,2,1,1,2,0,1,2,3
+2023,Amlodipine,Antihypertensive,3,0,3,1,0,2,1,1,0,1,2,2
+2023,Albuterol,Bronchodilator,1,1,0,3,1,0,2,2,1,0,1,1
+2023,Gabapentin,Anticonvulsant,2,2,1,0,3,1,0,2,2,1,0,0
+2023,Hydrochlorothiazide,Diuretic,0,0,2,2,0,3,1,0,3,2,1,1
+2023,Simvastatin,Antilipemic,1,1,0,0,2,2,0,3,1,0,3,3
+2023,Cetirizine,Antihistamine,2,2,1,1,0,0,2,2,0,3,1,0
+2023,Warfarin,Anticoagulant,0,0,2,2,1,1,0,0,2,2,0,3
+2023,Insulin Glargine,Antidiabetic,1,1,0,0,2,2,1,0,3,0,2,2
+2023,Salbutamol,Bronchodilator,2,2,1,1,0,0,2,2,1,0,3,0
+2023,Ramipril,Antihypertensive,0,0,2,2,1,1,0,0,2,2,1,3
+2023,Clopidogrel,Antiplatelet,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Sertraline,Antidepressant,2,2,1,1,0,0,2,2,1,1,0,0
+2023,Loratadine,Antihistamine,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Omeprazole,Proton Pump Inhibitor,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Ciprofloxacin,Fluoroquinolone,2,2,1,1,0,0,2,2,1,1,0,1
+2023,Escitalopram,Antidepressant,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Losartan,Antihypertensive,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Prednisone,Corticosteroid,2,2,1,1,0,0,2,2,1,1,0,2
+2023,Montelukast,Leukotriene Receptor Antagonist,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Fluoxetine,Selective Serotonin Reuptake Inhibitor,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Tramadol,Analgesic,2,2,1,1,0,0,2,2,1,1,0,2
+2023,Alprazolam,Benzodiazepine,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Hydroxyzine,Antihistamine,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Ranitidine,H2 Blocker,2,2,1,1,0,0,2,2,1,1,0,2
+2023,Diazepam,Benzodiazepine,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Enalapril,Antihypertensive,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Paroxetine,Selective Serotonin Reuptake Inhibitor,2,2,1,1,0,0,2,2,1,1,0,2
+2023,Tamsulosin,Alpha Blocker,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Duloxetine,Antidepressant,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Venlafaxine,Antidepressant,2,2,1,1,0,0,2,2,1,1,0,2
+2023,Lisinopril,Antihypertensive,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Clonazepam,Benzodiazepine,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Oxycodone,Opioid Analgesic,2,2,1,1,0,0,2,2,1,1,0,2
+2023,Topiramate,Anticonvulsant,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Glimepiride,Antidiabetic,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Bupropion,Antidepressant,2,2,1,1,0,0,2,2,1,1,0,2
+2023,Naproxen,Nonsteroidal Anti-inflammatory,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Pantoprazole,Proton Pump Inhibitor,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Risperidone,Antipsychotic,2,2,1,1,0,0,2,2,1,1,0,2
+2023,Carvedilol,Beta Blocker,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Valacyclovir,Antiviral,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Aripiprazole,Antipsychotic,2,2,1,1,0,0,2,2,1,1,0,2
+2023,Celecoxib,Nonsteroidal Anti-inflammatory,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Lamotrigine,Anticonvulsant,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Sildenafil,Erectile Dysfunction Agent,2,2,1,1,0,0,2,2,1,1,0,2
+2023,Finasteride,5-alpha Reductase Inhibitor,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Zolpidem,Insomnia Treatment,1,1,0,0,2,2,1,1,0,0,2,2
+2023,Quetiapine,Antipsychotic,2,2,1,1,0,0,2,2,1,1,0,2
+2023,Furosemide,Diuretic,0,0,2,2,1,1,0,0,2,2,1,2
+2023,Amphetamine,Stimulant,1,1,0,0,2,2,,,,,,
