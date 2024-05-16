@@ -29,20 +29,3 @@ def login_page(request):
 
 def admin_page(request):
     return render(request, 'admin.html')
-
-# def register_page(request):
-#     if request.method == 'POST':
-#         print(request.POST)
-#         uname = request.POST.get('username')
-#         password = request.POST.get('password')
-#         conpassword = request.POST.get('confirmPassword')
-#         print(uname, password)
-#         if password != conpassword :
-#             return HttpResponse("Password not same")
-#         else:
-#             my_user = User.objects.create_user(uname,password)
-#             my_user.save()
-#             return redirect('login')
-        
-
-    # return render(request, 'register.html')

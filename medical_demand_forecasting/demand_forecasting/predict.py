@@ -3,9 +3,9 @@ import pandas as pd
 
 class predict_class :
     def pred():
-        expiration_df = pd.read_csv('D:\Projects\code_quest_202\medical_demand_forecasting\demand_forecasting\data\pharmacyDatasetEx.csv')
-        purchase_df = pd.read_csv('D:\Projects\code_quest_202\medical_demand_forecasting\demand_forecasting\data\pharmacyDatasetpurchase.csv')
-        sales_df = pd.read_csv('D:\Projects\code_quest_202\medical_demand_forecasting\demand_forecasting\data\pharmacyDatasetSales.csv')
+        expiration_df = pd.read_csv('D:\Projects\code_quest_202\SRHU\medical_demand_forecasting\demand_forecasting\data\pharmacyDatasetEx.csv')
+        purchase_df = pd.read_csv('D:\Projects\code_quest_202\SRHU\medical_demand_forecasting\demand_forecasting\data\pharmacyDatasetpurchase.csv')
+        sales_df = pd.read_csv('D:\Projects\code_quest_202\SRHU\medical_demand_forecasting\demand_forecasting\data\pharmacyDatasetSales.csv')
 
         print(sales_df.shape)
         print(purchase_df.shape)
